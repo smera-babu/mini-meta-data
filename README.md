@@ -1,1 +1,1 @@
-# mini-meta-data
+This project is a Python-based digital forensic tool developed for extracting metadata from common digital file formats such as images, PDF files, and DOCX documents. The tool helps in identifying hidden and relevant metadata including creation details, author information, software used, and modification history, which are essential in cyber forensic investigations.
